@@ -1,2 +1,2 @@
 My first readme
-I will win
+I will win.

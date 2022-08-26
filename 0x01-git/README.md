@@ -1,2 +1,2 @@
 Gits
-This is my Time. 
+My readme is up to date
